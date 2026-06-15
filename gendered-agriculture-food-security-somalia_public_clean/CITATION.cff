@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Beyond Household Headship: Gendered Agriculture and Food-Security Pathways in Somalia"
+message: "If you use this public mini-project, please cite it using this metadata."
+type: software
+authors:
+  - family-names: Ismail
+    given-names: Ahmed Hussein
+keywords:
+  - gender
+  - agriculture
+  - food security
+  - Somalia
+  - survey analysis
+  - responsible data
+license: MIT
+repository-code: "https://github.com/your-username/gendered-agriculture-food-security-somalia"
+year: 2026
